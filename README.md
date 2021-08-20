@@ -1,5 +1,5 @@
 # Description
-This Repository contains project made with python.
+This Repository contains projects made with python.
 
 ## Project 1
 ### Weather Data Collector
