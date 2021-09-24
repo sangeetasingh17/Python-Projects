@@ -1,8 +1,14 @@
 # Description
 This Repository contains projects made with python.
 
-## Project 1
-### Weather Data Collector
+## Index
+### Project 1: Rock-Paper-Scissors game
+- used Random module to generate random numbers
+- implemented conditional statements
+- [Rock-Paper-Scissors](./Rock-Paper-Scissors)
+
+### Project 2: Weather Data Collector
 - Collects and display weather data of the desired country or city throughout the entire world.
 - Made use of Tkinter module of python to create a GUI application in order to interact with it and display the data in a formatted manner.
 - API used is OpemWeatherMap.
+- [Weather Data Collector](./Weather-Data-Collector)
