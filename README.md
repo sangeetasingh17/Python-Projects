@@ -12,3 +12,7 @@ This Repository contains projects made with python.
 - Made use of Tkinter module of python to create a GUI application in order to interact with it and display the data in a formatted manner.
 - API used is OpemWeatherMap.
 <br> [Click Here](./Weather-Data-Collector)
+
+### Project 3: Alarm Clock
+Learned and implemented DateTime module in python to create an alarm clock and the sound library in Python to play the alarm sound.
+<br> [Click Here](./Alarm-Clock)
