@@ -14,5 +14,10 @@ This Repository contains projects made with python.
 <br> [Click Here](./Weather-Data-Collector)
 
 ### Project 3: Alarm Clock
-Learned and implemented DateTime module in python to create an alarm clock and the sound library in Python to play the alarm sound.
+- Learned and implemented DateTime module in python to create an alarm clock
+- Used sound library in Python to play the alarm sound.
 <br> [Click Here](./Alarm-Clock)
+
+### Project 4: Happy Birthday
+- Learned and implemented turtle module in python to create a page that wishes *Happy Birthday* to your dearest friend in a very different and visually apealing way.
+<br> [Click Here](./Turtle-Program)
